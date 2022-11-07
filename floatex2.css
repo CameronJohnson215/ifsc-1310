@@ -34,8 +34,8 @@ body {
 #red {
 	background-color: #900;
     float: left;
-    width:34vw;
-    height:10vw;
+    width:14vw;
+    height:25vw;
     margin: 1.7%;
     padding: 2%;
     
@@ -43,8 +43,8 @@ body {
 #green {
 	background-color: #090;
     float: left;
-    width:34vw;
-    height:10vw;
+    width:14vw;
+    height:25vw;
     margin: 1.7%;
     padding: 2%;
    
@@ -53,8 +53,8 @@ body {
 #blue {
 	background-color: #00F;
     float: left;
-    width:34vw;
-    height:10vw;
+    width:14vw;
+    height:25vw;
     margin: 1.7%;
     padding: 2%;
     
@@ -62,8 +62,8 @@ body {
 #purple {
 	background-color: #63C;
     float: left;
-    width:34vw;
-    height:10vw;
+    width:14vw;
+    height:25vw;
     margin: 1.7%;
     padding: 2%;
 }
