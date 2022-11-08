@@ -35,7 +35,7 @@
     position: absolute;
     top: 0;
     left: 0;
-    width: 20vw;
+    width: 10vw;
     height: 10vw;
   }
   #green {
@@ -43,7 +43,7 @@
     position: absolute;
     top: 0;
     right: 0;
-    width: 20vw;
+    width: 10vw;
     height: 10vw;
   }
   #blue {
@@ -51,7 +51,7 @@
     position: absolute;
     bottom: 0;
     left: 0;
-    width: 20vw;
+    width: 10vw;
     height: 10vw;
   }
   #purple {
@@ -59,7 +59,7 @@
     position: absolute;
     bottom: 0;
     right: 0;
-    width: 20vw;
+    width: 10vw;
     height: 10vw;
   }
   #footer {
@@ -68,8 +68,8 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    width: 20vw;
-    height: 20vw;
+    width: 10vw;
+    height: 10vw;
   }
   h1 {
     color: #000;
