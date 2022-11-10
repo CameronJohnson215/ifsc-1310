@@ -1,0 +1,39 @@
+body{
+    background-image:url("bg.jfif");
+}
+ul li{
+    font-style: normal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    list-style-type: circle;
+    color: brown;
+}
+h1{
+    font-size: x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    
+}
+ul li::marker{
+    color: blue;
+}
+.bg{
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+}
+ul li a{
+    color:black;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    font-size: x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h6{
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    text-align: center;
+}
