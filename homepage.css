@@ -1,5 +1,10 @@
 body{
-    background-image:url("bg.jfif");
+    background-image:url(background.jfif);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    min-height: 100vh;
+    width: 100%;
 }
 ul li{
     font-style: normal;
